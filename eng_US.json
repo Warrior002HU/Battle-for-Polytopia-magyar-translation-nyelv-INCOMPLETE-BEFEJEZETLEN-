@@ -130,7 +130,7 @@
 "world.unit.movement": "Sebesség",
 "world.unit.range": "Támadás",
 "world.unit.disembark.title": "{0} elhagyása", "world.unit.disembark.message": "Ha az egység kiszáll, a(z) {0} el fog veszni. Biztos végrehajtod?",
-"world.unit.evolve": Az egységedből {0} lett!", 
+"world.unit.evolve": "Az egységedből {0} lett!", 
 "world.unit.evolve.title": "Egységnövekedés",
 "world.unit.dissolved": "Az egység leszerelt", 
 "world.building.info": "{0} városa",
