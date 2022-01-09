@@ -58,8 +58,7 @@
 "gamesettings.info.difficulty.bonus": "Nehézségi járadék: {0}%",
 "gamesettings.difficulty": "Nehézség",
 "gamesettings.difficulty.easy": "Könnyű",
-"gamesettings.difficulty.normal":
-"Átlagos",
+"gamesettings.difficulty.normal":"Átlagos",
 "gamesettings.difficulty.hard": "Nehéz",
 "gamesettings.difficulty.crazy": "Veszett", 
 "gamesettings.startgame": "INDÍTÁS",
