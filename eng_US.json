@@ -27,8 +27,7 @@
 "tribepicker.enable": "FELOLDÁS",
 "tribepicker.disable": "LEZÁRÁS",
 "tribepicker.disabled": "lezárva",
-"tribepicker.disabled.description":
-"Lezárva, sem te, sem az MI nem használhatja.", 
+"tribepicker.disabled.description":"Lezárva, sem te, sem az MI nem használhatja.", 
 "tribepicker.pick": "VÁLASZTÁS",
 "tribepicker.yourname": "A Te neved",
 "tribepicker.anonymous": "Anonymous",
